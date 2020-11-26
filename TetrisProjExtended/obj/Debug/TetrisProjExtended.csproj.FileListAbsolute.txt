@@ -1,0 +1,8 @@
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\obj\Debug\TetrisProjExtended.csprojAssemblyReference.cache
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\obj\Debug\TetrisProjExtended.csproj.CoreCompileInputs.cache
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\bin\Debug\TetrisProjExtended.exe.config
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\bin\Debug\TetrisProjExtended.exe
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\bin\Debug\TetrisProjExtended.pdb
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\obj\Debug\TetrisProjExtended.exe
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\obj\Debug\TetrisProjExtended.pdb
+C:\Users\Carbonowy\source\repos\TetrisProjExtended\TetrisProjExtended\bin\Debug\No Death - Final Communication.wav
